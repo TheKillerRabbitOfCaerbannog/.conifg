@@ -27,6 +27,8 @@ set shiftwidth=4
 set softtabstop=4
 set ruler
 set undolevels=2500
-set backspace=indent,eol,start	
+set backspace=indent,eol,start
+set foldmethod=indent
+set foldlevel=99
 syntax on
 colorscheme moonshine
